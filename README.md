@@ -2,7 +2,7 @@
 - 👀 I’m a Devops Engineer
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on projects on Devops  
-- 📫 How to reach me :dsmohsinabubaker@gmail.com ;7993455571
+- 📫 How to reach me :dsmohsinabubaker@gmail.com ;
 -
 
 <!---
